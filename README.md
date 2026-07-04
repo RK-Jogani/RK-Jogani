@@ -79,7 +79,6 @@ Built for a luxury textile client — AI-driven scheduling, digital-twin simulat
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **AI / LLM** | ![GPT4](https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white) |
 | **Blockchain / Crypto** | ![Bitcoin](https://img.shields.io/badge/Bitcoin_Cash-8DC351?style=flat-square&logo=bitcoincash&logoColor=white) ![BIP32](https://img.shields.io/badge/BIP32%2FBIP39-00d9ff?style=flat-square) ![SLIP39](https://img.shields.io/badge/SLIP--39-9d4edd?style=flat-square) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
@@ -107,10 +106,10 @@ Built for a luxury textile client — AI-driven scheduling, digital-twin simulat
 // open to opportunities
 ```
 
-### Open to Backend & AI Engineering Roles — Full-Time / Freelance
+### Open to Backend & Blockchain Engineering Roles — Full-Time / Freelance
 
 `` `Let's build something that lasts.` ``
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn_→-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn_→-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rk-jogani/)
 
 </div>
