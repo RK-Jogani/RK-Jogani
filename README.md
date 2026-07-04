@@ -1,46 +1,66 @@
-# 👋 Hi there! I'm Ramesh Kumar  
+# 👋 Hi, I'm Ramesh Kumar
 
-Welcome to my GitHub profile! I'm a **Computer Science student**, **freelancer**, and an aspiring **developer** passionate about **technology**, **programming**, and creating impactful solutions.  
+Backend Developer & AI Engineer | Python · FastAPI · Django REST Framework | LLM Integration
 
----
-
-## 🌟 About Me  
-
-- 🎓 Currently pursuing a **BS in Computer Science (BSCS)** at **UBIT, University of Karachi**.  
-- 💻 Freelance experience in **web development** and **desktop application development**.  
-- 🌱 Exploring **Data Structures**, **Algorithms**, and **Full-Stack Development** with modern frameworks and tools.  
+I build production-grade backend systems and AI-powered applications — from RESTful APIs handling real traffic to LLM orchestration tools and cryptographic security software.
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🌟 About Me
 
-- **Programming Languages**: JavaScript, Python, Java, C++, C, C#  
-- **Frameworks**: React, React Vite, Angular, Next.js, Node.js, Express, Twinker, PyGame  
-- **Database**: MySQL, MongoDB, PostgreSQL  
-- **Other Tools**: MS Project, Erase.io, Canva  
-
----
-
-## 📚 Current Projects  
-
-- **Shortest Distance Finder**: A Python project using map data to calculate the shortest path between two locations.  
-- **Learning Data Structures**: Focusing on trees, AVL trees, hashing, and algorithms for efficient problem-solving.  
+- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (Expected Dec 2026)
+- 💼 3+ years of freelance experience delivering backend systems for SaaS and startup clients
+- 🤖 Hands-on experience integrating **GPT-4, Claude, and Llama** into real applications
+- 🔐 Core contributor to **SeedCash**, a production-shipped cryptographic hardware wallet
+- 📈 Maintained **99.9% API uptime** across 10+ client projects, with consistent 5-star feedback
 
 ---
 
-## 💡 Goals  
+## 🛠️ Technologies & Tools
 
-- Build impactful projects that solve real-world problems.  
-- Improve skills in **DSA**, **UI/UX Design**, and **software architecture**.  
-- Make technology accessible and beneficial for everyone.  
+**Languages:** Python, SQL, JavaScript, TypeScript, Java, C++
+
+**Backend & APIs:** Django REST Framework, FastAPI, Node.js, Express, RESTful API Design
+
+**Frontend:** React, Next.js, TypeScript
+
+**Databases & Caching:** PostgreSQL, Redis, MySQL, MongoDB, SQLite
+
+**AI & LLM:** GPT-4, Claude, Llama, Prompt Engineering, AI Agent Architecture
+
+**Data & Pipelines:** Pandas, NumPy, ETL/Data Transformation
+
+**Security & Crypto:** BIP32/BIP39, SLIP-39 (Shamir Secret Sharing), Secure Key Management
+
+**Tools:** Git/GitHub, Postman, Docker, Linux, PyQt6, OpenCV
 
 ---
 
-## 🌐 Let's Connect  
-  
-- **LinkedIn**: [Ramesh Kumar](https://www.linkedin.com/in/ramesh-kumar-a0349a239/) 
-- **Instagram**: [Ramesh Kumar](https://www.instagram.com/r.k_jogani/)
+## 🚀 Featured Projects
+
+### [llmConnect](#) — Local-First LLM Orchestration Workspace
+A desktop workspace for managing multi-provider LLM sessions (GPT-4, Claude, Llama) from a single interface, with encrypted local credential storage and zero cloud dependency.
+
+### [SeedCash](https://github.com/SeedCashOrg) — Cryptographic Hardware Wallet Ecosystem
+Core contributor to a production-released (v1.1.0) open-source Bitcoin Cash hardware wallet, implementing BIP32/BIP39 key derivation and SLIP-39 Shamir Secret Sharing for seed protection.
+
+### AI-Powered Production Management System
+A full-stack system built for a luxury textile manufacturing client, using FastAPI and Next.js with AI-driven scheduling and bottleneck prediction to optimize production workflows.
 
 ---
 
-⭐ **Feel free to explore my repositories and projects. Your feedback and contributions are always welcome!**  
+## 💡 What I'm Focused On
+
+- Shipping backend systems that stay reliable under real-world load
+- Deepening my work at the intersection of LLMs and practical software
+- Sharpening system design and architecture skills for larger-scale projects
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
+- 🐙 [GitHub — SeedCashOrg](https://github.com/SeedCashOrg)
+- 📸 [Instagram](https://www.instagram.com/r.k_jogani/)
+
+⭐ Feel free to explore my repos — feedback and collaboration are always welcome!
