@@ -1,66 +1,118 @@
-# 👋 Hi, I'm Ramesh Kumar
+<div align="center">
 
-Backend Developer & AI Engineer | Python · FastAPI · Django REST Framework | LLM Integration
+```
+╔════════════════════════════════════════════════════════════╗
+║   RAMESH KUMAR · BACKEND ENGINEER · AI × BLOCKCHAIN         ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-I build production-grade backend systems and AI-powered applications — from RESTful APIs handling real traffic to LLM orchestration tools and cryptographic security software.
+# Ramesh Kumar
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%3E+Backend+systems+that+don%27t+break.;%3E+Python+%C2%B7+FastAPI+%C2%B7+Django+REST;%3E+LLM+Integration+%3A+GPT-4+%C2%B7+Claude+%C2%B7+Llama;%3E+Cryptographic+Systems+%C2%B7+SeedCash+Core;%3E+Open+to+Backend+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
 
-## 🌟 About Me
+*Backend Development · AI/LLM Integration · Cryptography · Distributed Systems*
 
-- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (Expected Dec 2026)
-- 💼 3+ years of freelance experience delivering backend systems for SaaS and startup clients
-- 🤖 Hands-on experience integrating **GPT-4, Claude, and Llama** into real applications
-- 🔐 Core contributor to **SeedCash**, a production-shipped cryptographic hardware wallet
-- 📈 Maintained **99.9% API uptime** across 10+ client projects, with consistent 5-star feedback
+[![Profile Views](https://komarev.com/ghpvc/?username=RK-Jogani&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/RK-Jogani)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
+[![GitHub](https://img.shields.io/badge/SeedCashOrg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeedCashOrg)
+[![Gmail](https://img.shields.io/badge/Gmail-f0883e?style=flat-square&logo=gmail&logoColor=white)](mailto:kumar814ramesh@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/r.k_jogani/)
 
-## 🛠️ Technologies & Tools
-
-**Languages:** Python, SQL, JavaScript, TypeScript, Java, C++
-
-**Backend & APIs:** Django REST Framework, FastAPI, Node.js, Express, RESTful API Design
-
-**Frontend:** React, Next.js, TypeScript
-
-**Databases & Caching:** PostgreSQL, Redis, MySQL, MongoDB, SQLite
-
-**AI & LLM:** GPT-4, Claude, Llama, Prompt Engineering, AI Agent Architecture
-
-**Data & Pipelines:** Pandas, NumPy, ETL/Data Transformation
-
-**Security & Crypto:** BIP32/BIP39, SLIP-39 (Shamir Secret Sharing), Secure Key Management
-
-**Tools:** Git/GitHub, Postman, Docker, Linux, PyQt6, OpenCV
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `>` About
 
-### [llmConnect](#) — Local-First LLM Orchestration Workspace
-A desktop workspace for managing multi-provider LLM sessions (GPT-4, Claude, Llama) from a single interface, with encrypted local credential storage and zero cloud dependency.
-
-### [SeedCash](https://github.com/SeedCashOrg) — Cryptographic Hardware Wallet Ecosystem
-Core contributor to a production-released (v1.1.0) open-source Bitcoin Cash hardware wallet, implementing BIP32/BIP39 key derivation and SLIP-39 Shamir Secret Sharing for seed protection.
-
-### AI-Powered Production Management System
-A full-stack system built for a luxury textile manufacturing client, using FastAPI and Next.js with AI-driven scheduling and bottleneck prediction to optimize production workflows.
-
----
-
-## 💡 What I'm Focused On
-
-- Shipping backend systems that stay reliable under real-world load
-- Deepening my work at the intersection of LLMs and practical software
-- Sharpening system design and architecture skills for larger-scale projects
+```python
+ramesh = {
+    "role"        : "Backend Developer & AI Engineer",
+    "focus"       : ["Python", "LLM Integration", "Cryptography", "Distributed Systems"],
+    "currently"   : "BS Computer Science @ UBIT, University of Karachi",
+    "shipped"     : "SeedCash v1.1.0 — production crypto hardware wallet",
+    "experience"  : "3+ years freelance · 99.9% API uptime · 5-star track record",
+    "open_to"     : "Backend / AI Engineering roles — full-time & freelance"
+}
+```
 
 ---
 
-## 🌐 Let's Connect
+## `>` Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
-- 🐙 [GitHub — SeedCashOrg](https://github.com/SeedCashOrg)
-- 📸 [Instagram](https://www.instagram.com/r.k_jogani/)
+### 🔐 [SeedCash](https://github.com/SeedCashOrg) &nbsp; [![Production](https://img.shields.io/badge/v1.1.0-00d9ff?style=flat-square)](https://github.com/SeedCashOrg)
+*Cryptographic Hardware Wallet Ecosystem*
 
-⭐ Feel free to explore my repos — feedback and collaboration are always welcome!
+Core contributor across a 4-repository open-source Bitcoin Cash wallet — implementing BIP32/BIP39 hierarchical deterministic key derivation and SLIP-39 Shamir Secret Sharing for seed protection. Built a full hardware emulator in Python for end-to-end regression testing without physical devices.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/BIP32%2FBIP39-00d9ff?style=flat-square)
+![SLIP39](https://img.shields.io/badge/SLIP--39-9d4edd?style=flat-square)
+![Security](https://img.shields.io/badge/Security-f0883e?style=flat-square)
+
+---
+
+### 🤖 [llmConnect](https://github.com/RK-Jogani)
+*Local-First LLM Orchestration Workspace*
+
+Desktop workspace unifying multi-provider LLM sessions — GPT-4, Claude, Llama — behind a single interface. Encrypted local credential storage, structured chat classification with SQLite, zero cloud dependency.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GPT4](https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+
+---
+
+### 🏭 AI-Powered Production Management System
+*Full-Stack Manufacturing Intelligence Platform*
+
+Built for a luxury textile client — AI-driven scheduling, digital-twin simulation, and real-time bottleneck prediction across manufacturing workflows, integrated with existing ERP/MES systems.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## `>` Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **AI / LLM** | ![GPT4](https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white) |
+| **Blockchain / Crypto** | ![Bitcoin](https://img.shields.io/badge/Bitcoin_Cash-8DC351?style=flat-square&logo=bitcoincash&logoColor=white) ![BIP32](https://img.shields.io/badge/BIP32%2FBIP39-00d9ff?style=flat-square) ![SLIP39](https://img.shields.io/badge/SLIP--39-9d4edd?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+## `>` GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RK-Jogani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=e6edf3&ring_color=00d9ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RK-Jogani&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d9ff&fire=f0883e&currStreakLabel=00d9ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RK-Jogani&bg_color=0d1117&color=00d9ff&line=00d9ff&point=9d4edd&area=true&area_color=00d9ff&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// open to opportunities
+```
+
+### Open to Backend & AI Engineering Roles — Full-Time / Freelance
+
+`` `Let's build something that lasts.` ``
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn_→-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
+
+</div>
