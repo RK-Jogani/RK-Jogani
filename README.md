@@ -2,7 +2,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║   RAMESH KUMAR · BACKEND ENGINEER · AI × BLOCKCHAIN         ║
+║   RAMESH KUMAR · BACKEND ENGINEER · AI × BLOCKCHAIN        ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
@@ -26,14 +26,12 @@
 ## `>` About
 
 ```python
-ramesh = {
     "role"        : "Backend Developer & AI Engineer",
     "focus"       : ["Python", "LLM Integration", "Cryptography", "Distributed Systems"],
     "currently"   : "BS Computer Science @ UBIT, University of Karachi",
     "shipped"     : "SeedCash v1.1.0 — production crypto hardware wallet",
     "experience"  : "3+ years freelance · 99.9% API uptime · 5-star track record",
     "open_to"     : "Backend / AI Engineering roles — full-time & freelance"
-}
 ```
 
 ---
