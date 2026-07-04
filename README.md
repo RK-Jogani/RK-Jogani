@@ -1,20 +1,20 @@
 <div align="center">
 
 ```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║     RAMESH KUMAR · BACKEND ENGINEER · AI × BLOCKCHAIN     ║
-    ╚═══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║            RAMESH KUMAR · BLOCKCHAIN & BACKEND ENGINEER            ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 # Ramesh Kumar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%3E+Backend+systems+that+don%27t+break.;%3E+Python+%C2%B7+FastAPI+%C2%B7+Django+REST;%3E+LLM+Integration+%3A+GPT-4+%C2%B7+Claude+%C2%B7+Llama;%3E+Cryptographic+Systems+%C2%B7+SeedCash+Core;%3E+Open+to+Backend+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
 
-*Backend Development · AI/LLM Integration · Cryptography · Distributed Systems*
+*Blockchain Engineer . Backend Engineer · Cryptography · Distributed Systems*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RK-Jogani&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/RK-Jogani)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-kumar-a0349a239/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rk-jogani/)
 [![GitHub](https://img.shields.io/badge/SeedCashOrg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeedCashOrg)
 [![Gmail](https://img.shields.io/badge/Gmail-f0883e?style=flat-square&logo=gmail&logoColor=white)](mailto:kumar814ramesh@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/r.k_jogani/)
@@ -26,12 +26,12 @@
 ## `>` About
 
 ```python
-    "role"        : "Backend Developer & AI Engineer",
-    "focus"       : ["Python", "LLM Integration", "Cryptography", "Distributed Systems"],
+    "role"        : "Blockchain Engineer",
+    "focus"       : ["Python", "Cryptography", "Distributed Systems"],
     "currently"   : "BS Computer Science @ UBIT, University of Karachi",
     "shipped"     : "SeedCash v1.1.0 — production crypto hardware wallet",
-    "experience"  : "3+ years freelance · 99.9% API uptime · 5-star track record",
-    "open_to"     : "Backend / AI Engineering roles — full-time & freelance"
+    "experience"  : "3+ years freelance as Backend Developer · 99.9% API uptime · 5-star track record",
+    "open_to"     : "Backend / Blockchain Engineering roles — full-time & freelance"
 ```
 
 ---
