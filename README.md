@@ -8,7 +8,7 @@
 
 # Ramesh Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%3E+Backend+systems+that+don%27t+break.;%3E+Python+%C2%B7+FastAPI+%C2%B7+Django+REST;%3E+LLM+Integration+%3A+GPT-4+%C2%B7+Claude+%C2%B7+Llama;%3E+Cryptographic+Systems+%C2%B7+SeedCash+Core;%3E+Open+to+Backend+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%3E+Backend+systems+that+don%27t+break.;%3E+Python+%C2%B7+FastAPI+%C2%B7+Django+REST;%3E+Cryptographic+Systems+%C2%B7+SeedCash+Core;%3E+Open+to+Backend+%2F+Blockchain+Engineering+roles)](https://git.io/typing-svg)
 
 *Blockchain Engineer . Backend Engineer · Cryptography · Distributed Systems*
 
